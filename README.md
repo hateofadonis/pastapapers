@@ -12,7 +12,7 @@ this fork is actively maintained. i hope.
 ## installation & dependencies
 
 ### operating systems:
-*   linux (Debian/Ubuntu/CentOS)
+*   linux (Debian/Ubuntu)
 *   MacOSX
 *   Windows
 
